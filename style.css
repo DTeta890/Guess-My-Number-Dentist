@@ -41,13 +41,13 @@ main {
 
 .right {
     width: 52rem;
-    font-size: 2.2rem;
+    font-size: 2rem;
 }
 
 /* ELEMENTS */
 h1 {
     /* font-family: "Nosifer"; */
-    font-size: 4.5rem;
+    font-size: 4rem;
     text-align: center;
     width: 100%;
     position: absolute;
@@ -59,7 +59,7 @@ h1 {
 .number {
     background-color: #e2e8f0;
     color: #0fb9b1;
-    font-size: 6rem;
+    font-size: 5rem;
     width: 15rem;
     padding: 3rem 0rem;
     text-align: center;
@@ -81,7 +81,7 @@ h1 {
     line-height: 2.1rem;
     width: 70%;
     position: absolute;
-    top: 62%;
+    top: 55%;
     left: 50%;
     transform: translate(-50%, 50%);
 }
@@ -127,7 +127,7 @@ h1 {
 }
 
 .label-dentist {
-    font-size: 8rem;
+    font-size: 6rem;
 }
 
 .label-dentist:hover {
@@ -142,7 +142,7 @@ h1 {
 }
 
 .leo-message-angry {
-    font-size: 2.5rem;
+    font-size: 2.2rem;
     margin-bottom: 1.5rem;
     visibility: hidden;
 }
